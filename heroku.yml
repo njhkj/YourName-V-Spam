@@ -1,5 +1,5 @@
 build:
   docker:
-    Oxygen: Dockerfile
+    yourname: Dockerfile
 run:
-  Oxygen: python3 -m main.py
+  yourname: python3 -m main.py
