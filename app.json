@@ -1,6 +1,6 @@
 {
-    "name": "˹𝕆𝕩𝕪𝕘𝕖𝕟 ꭙ 𝕊𝕡𝕒𝕞˼🫧",
-    "logo": "https://telegra.ph/file/6c32d6bff1244f0972640.jpg",
+    "name": "☠️⃟𒆜🆈🅾️🆄🆁 🅽🅰️🅼🅴𒆜☠️",
+    "logo": "https://graph.org/file/aeb583ea1a6e6bfa729a5.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/PRADHAN474/SPAMBOT",
+    "repository": "https://github.com/njhkj/YourName-V-Spam",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
